@@ -1,0 +1,258 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. Michael Anderson",
+      "speciality": "General physician",
+      "image": "/assets/assets_frontend/doc1.png",
+      "experience": "12 years",
+      "rating": "4.8",
+      "consultationFee": "$150"
+    },
+    {
+      "id": "2",
+      "name": "Dr. James Roberts",
+      "speciality": "Dermatologist",
+      "image": "/assets/assets_frontend/doc2.png",
+      "experience": "8 years",
+      "rating": "4.6",
+      "consultationFee": "$200"
+    },
+    {
+      "id": "3",
+      "name": "Dr. Sarah Mitchell",
+      "speciality": "Gynecologist",
+      "image": "/assets/assets_frontend/doc3.png",
+      "experience": "15 years",
+      "rating": "4.9",
+      "consultationFee": "$180"
+    },
+    {
+      "id": "4",
+      "name": "Dr. David Thompson",
+      "speciality": "Neurologist",
+      "image": "/assets/assets_frontend/doc4.png",
+      "experience": "10 years",
+      "rating": "4.7",
+      "consultationFee": "$250"
+    },
+    {
+      "id": "5",
+      "name": "Dr. Emily Parker",
+      "speciality": "Pediatricians",
+      "image": "/assets/assets_frontend/doc5.png",
+      "experience": "9 years",
+      "rating": "4.8",
+      "consultationFee": "$160"
+    },
+    {
+      "id": "6",
+      "name": "Dr. Christopher Davis",
+      "speciality": "Gastroenterologist",
+      "image": "/assets/assets_frontend/doc6.png",
+      "experience": "14 years",
+      "rating": "4.7",
+      "consultationFee": "$220"
+    },
+    {
+      "id": "7",
+      "name": "Dr. Jennifer Wilson",
+      "speciality": "General physician",
+      "image": "/assets/assets_frontend/doc7.png",
+      "experience": "7 years",
+      "rating": "4.5",
+      "consultationFee": "$140"
+    },
+    {
+      "id": "8",
+      "name": "Dr. Lisa Martinez",
+      "speciality": "Dermatologist",
+      "image": "/assets/assets_frontend/doc8.png",
+      "experience": "11 years",
+      "rating": "4.9",
+      "consultationFee": "$190"
+    },
+    {
+      "id": "9",
+      "name": "Dr. Robert Johnson",
+      "speciality": "Pediatricians",
+      "image": "/assets/assets_frontend/doc9.png",
+      "experience": "13 years",
+      "rating": "4.8",
+      "consultationFee": "$170"
+    },
+    {
+      "id": "10",
+      "name": "Dr. Matthew Brown",
+      "speciality": "Neurologist",
+      "image": "/assets/assets_frontend/doc10.png",
+      "experience": "6 years",
+      "rating": "4.6",
+      "consultationFee": "$240"
+    },
+    {
+      "id": "11",
+      "name": "Dr. Amanda Taylor",
+      "speciality": "Gynecologist",
+      "image": "/assets/assets_frontend/doc11.png",
+      "experience": "10 years",
+      "rating": "4.7",
+      "consultationFee": "$185"
+    },
+    {
+      "id": "12",
+      "name": "Dr. Richard Moore",
+      "speciality": "Gastroenterologist",
+      "image": "/assets/assets_frontend/doc12.png",
+      "experience": "16 years",
+      "rating": "4.9",
+      "consultationFee": "$230"
+    },
+    {
+      "id": "13",
+      "name": "Dr. William Harris",
+      "speciality": "General physician",
+      "image": "/assets/assets_frontend/doc13.png",
+      "experience": "12 years",
+      "rating": "4.7",
+      "consultationFee": "$155"
+    },
+    {
+      "id": "14",
+      "name": "Dr. Daniel Clark",
+      "speciality": "Dermatologist",
+      "image": "/assets/assets_frontend/doc14.png",
+      "experience": "9 years",
+      "rating": "4.6",
+      "consultationFee": "$195"
+    },
+    {
+      "id": "15",
+      "name": "Dr. Jessica Lewis",
+      "speciality": "Pediatricians",
+      "image": "/assets/assets_frontend/doc15.png",
+      "experience": "11 years",
+      "rating": "4.8",
+      "consultationFee": "$165"
+    },
+    {
+      "id": "98a9",
+      "image": "/assets/assets_frontend/doc2.png",
+      "name": "Dr. James Roberts",
+      "speciality": "Dermatologist",
+      "date": "WED",
+      "time": "06:00 pm",
+      "status": "active"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1116",
+      "image": "/assets/assets_frontend/doc4.png",
+      "name": "Dr. David Thompson",
+      "speciality": "Neurologist",
+      "date": "FRI",
+      "time": "06:00 pm",
+      "status": "cancelled"
+    },
+    {
+      "id": "abca",
+      "image": "/assets/assets_frontend/doc4.png",
+      "name": "Dr. David Thompson",
+      "speciality": "Neurologist",
+      "date": "THU",
+      "time": "05:00 pm",
+      "status": "cancelled"
+    },
+    {
+      "id": "f755",
+      "image": "/assets/assets_frontend/doc11.png",
+      "name": "Dr. Amanda Taylor",
+      "speciality": "Gynecologist",
+      "date": "WED",
+      "time": "06:00 pm",
+      "status": "cancelled"
+    },
+    {
+      "id": "8dde",
+      "image": "/assets/assets_frontend/doc3.png",
+      "name": "Dr. Sarah Mitchell",
+      "speciality": "Gynecologist",
+      "date": "WED",
+      "time": "07:00 pm",
+      "status": "active"
+    },
+    {
+      "id": "844f",
+      "image": "/assets/assets_frontend/doc4.png",
+      "name": "Dr. David Thompson",
+      "speciality": "Neurologist",
+      "date": "SAT",
+      "time": "06:30 pm",
+      "status": "active"
+    },
+    {
+      "id": "e7a2",
+      "image": "/assets/assets_frontend/doc4.png",
+      "name": "Dr. David Thompson",
+      "speciality": "Neurologist",
+      "date": "WED",
+      "time": "06:30 pm",
+      "status": "active"
+    },
+    {
+      "id": "89db",
+      "image": "/assets/assets_frontend/doc4.png",
+      "name": "Dr. David Thompson",
+      "speciality": "Neurologist",
+      "date": "WED",
+      "time": "06:00 pm",
+      "status": "active"
+    },
+    {
+      "id": "cebc",
+      "image": "/assets/assets_frontend/doc8.png",
+      "name": "Dr. Lisa Martinez",
+      "speciality": "Dermatologist",
+      "date": "WED",
+      "time": "06:00 pm",
+      "status": "active"
+    },
+    {
+      "id": "fabd",
+      "image": "/assets/assets_frontend/doc7.png",
+      "name": "Dr. Jennifer Wilson",
+      "speciality": "General physician",
+      "date": "THU",
+      "time": "05:00 pm",
+      "status": "active"
+    },
+    {
+      "id": "5e10",
+      "image": "/assets/assets_frontend/doc2.png",
+      "name": "Dr. James Roberts",
+      "speciality": "Dermatologist",
+      "date": "FRI",
+      "time": "05:00 pm",
+      "status": "active"
+    },
+    {
+      "id": "e125",
+      "image": "/assets/assets_frontend/doc5.png",
+      "name": "Dr. Emily Parker",
+      "speciality": "Pediatricians",
+      "date": "THU",
+      "time": "06:00 pm",
+      "status": "active"
+    },
+    {
+      "id": "b319",
+      "image": "/assets/assets_frontend/doc3.png",
+      "name": "Dr. Sarah Mitchell",
+      "speciality": "Gynecologist",
+      "date": "WED",
+      "time": "06:00 pm",
+      "status": "active"
+    }
+  ]
+}
